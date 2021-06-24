@@ -1,0 +1,15 @@
+Unit testing
+Component testing
+Smoke testing
+Sanity testing
+Regression testing
+Integration testing
+API testing
+UI testin
+System testing
+White-box testing
+Black-box testing
+Acceptance testing
+Alpha testing
+Beta testing
+Production testing
